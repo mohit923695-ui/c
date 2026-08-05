@@ -10,7 +10,7 @@ int main(){
     return 0 ;
 
 }
-/*invalid instructions
+/*invalid instructions 
 int a = 22;
 int b = a;
 ingt c = b+2;
