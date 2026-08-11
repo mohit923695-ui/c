@@ -9,7 +9,7 @@ int main (){
     else if(age<18){
         printf("not adult\n");
     }
-    printf("thanks for contribution");
+    printf("thank you ");
 
     return 0 ;
     
